@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InfoActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:padding="16dp"
+        android:text="Lorem ipsum dolor sit amet, est no malis mundi inimicus, reque vidisse molestiae cu sit, natum scaevola conclusionemque nec an. Deserunt philosophia ius et, no per solum volutpat, sit eu quot laoreet. Ea velit commune nam, facilis vulputate in eos. Vel ad magna fastidii delicata. Ne simul phaedrum his, eirmod ocurreret ne nec."/>
+
+</android.support.constraint.ConstraintLayout>
